@@ -1,2 +1,2 @@
-# GracelaVanessaMariz-Note-App-Starter-Code
+Note-App-Starter-Code-VanessaMarizGracela
 midterm project
